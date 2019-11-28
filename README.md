@@ -1,6 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-**React based App Developed by 
+Bootstrap React Based App Developed By 
 ## Tal Boosy
 
 In the project directory, you can run:
