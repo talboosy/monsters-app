@@ -1,6 +1,7 @@
 
 Bootstrap React Based App Developed By 
 ## Tal Boosy
+Live Preview: https://talboosy.github.io/monsters-app/
 
 In the project directory, you can run:
 
